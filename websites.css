@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+ .head{
+    font-size: 37px;
+ }
+ .hd{
+    font-size: 30px;
+ }
+ .bus{
+    font-size: 30px;
+ }
+.com{
+   font-size: 25px;
+}
+.stock{
+   font-size: 25px;
+}
+.partner{
+   font-size: 25px;
+}
+.legal{
+   font-size: 25px;
+}
+.our{
+   font-size: 25px;
+}
